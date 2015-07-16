@@ -4,17 +4,17 @@ An automatic Web crawler which collects hotel reviews from TripAdvisor.com and s
 
 ## Installation
 
-1. Install common-node (https://www.npmjs.com/package/common-node)
+1 Install common-node (https://www.npmjs.com/package/common-node)
 ```bash
-sudo npm -g install common-node
+  sudo npm -g install common-node
 ```
-2. Install PhantomJS (http://phantomjs.org/)
+2 Install PhantomJS (http://phantomjs.org/)
 ```bash
-sudo npm -g install phantomjs
+  sudo npm -g install phantomjs
 ```
-3. Install nodejs-legacy (required by common-node)
+3 Install nodejs-legacy (required by common-node)
 ```bash
-sudo apt-get install nodejs-legacy
+  sudo apt-get install nodejs-legacy
 ```
 
 ## How to use
